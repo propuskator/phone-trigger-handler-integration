@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Ololosh",
+        "fullName": "Ololosh Vasulyovish",
+        "position": "dev",
+        "phone": "+380676551243",
+        "workspaceId": 1,
+        "virtualToken": "GEFWFGWEW"
+    },
+    {
+        "id": 2,
+        "name": "Ololosh (same number as 1 subject)",
+        "fullName": "Ololosh Petrovich",
+        "position": "dev",
+        "phone": "+380676551243",
+        "workspaceId": 2,
+        "virtualToken": "WEFWEFEWF"
+    },
+    {
+        "id": 3,
+        "name": "Ololosh",
+        "fullName": "Ololosh Semenovich",
+        "position": "dev",
+        "phone": "+380676551241",
+        "workspaceId": 1,
+        "virtualToken": "GWREFWEFE"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id"                  : 1,
+        "code"                : "CODE",
+        "name"                : "name",
+        "phone"               : "+380682650934",
+        "stateStatus"         : "ACTIVE",
+        "enabled"             : true,
+        "isArchived"          : false,
+        "workspaceId"         : 1
+    },
+    {
+        "id"                  : 2,
+        "code"                : "CODE2",
+        "name"                : "name2",
+        "phone"               : "+380682650941",
+        "stateStatus"         : "ACTIVE",
+        "enabled"             : true,
+        "isArchived"          : false,
+        "workspaceId"         : 1
+    },
+    {
+        "id"                  : 3,
+        "code"                : "CODE2",
+        "name"                : "phone is the same as in 1 reader",
+        "phone"               : "+380682650934",
+        "stateStatus"         : "ACTIVE",
+        "enabled"             : true,
+        "isArchived"          : false,
+        "workspaceId"         : 2
+    },
+    {
+        "id"                  : 4,
+        "code"                : "CODE2",
+        "name"                : "name2",
+        "phone"               : "+380682650941",
+        "stateStatus"         : "ACTIVE",
+        "enabled"             : true,
+        "isArchived"          : false,
+        "workspaceId"         : 2
+    }
+]
